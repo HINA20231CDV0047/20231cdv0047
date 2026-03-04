@@ -29,5 +29,5 @@ jobs:
 
      
       - name: Run Java program
-        run: java OddEven
+        run: java EvenOdd
 
